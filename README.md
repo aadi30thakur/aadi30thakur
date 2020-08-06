@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/Git-007ACC.svg?&style=for-the-badge&logo=git&logoColor=white" height="25"/>
 </p> 
  <p align="center"> 
-<img src=" https://github-readme-stats.vercel.app/api?username=aadi30thakur" alt="aadi30thakur"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aadi30thakur" alt="aadi30thakur"/>
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aadi30thakur&layout=compact" alt="aadi30thakur" />
 
  </p>
