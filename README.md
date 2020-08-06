@@ -10,10 +10,9 @@
 <h3>connect with me: </h3>
 
 
-[<img align="left" alt="aadi thakur | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="aditya_thakur80 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="aditya-thakur | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="_aadi.thakur_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="_aadi.thakur_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]<br/><br/>
 <h3>Stack I work with</h3>
 <p align="left">
 <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
@@ -35,3 +34,8 @@
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aadi30thakur&layout=compact" alt="aadi30thakur" />
 
  </p>
+
+[twitter]: https://twitter.com/aditya_thakur80
+
+[instagram]: https://www.instagram.com/_aadi.thakur_/
+[linkedin]: https://www.linkedin.com/in/aditya-thakur/
