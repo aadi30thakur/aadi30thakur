@@ -15,14 +15,13 @@
 <img src="https://img.shields.io/badge/android-0052CC.svg?&style=for-the-badge&logo=android&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/react-4479A1.svg?&style=for-the-badge&logo=react&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/linux-FB7A24.svg?&style=for-the-badge&logo=linux&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Mern-F3631D.svg?&style=for-the-badge&logo=webpack&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Bootstrap-F3631D.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Mern-261C29.svg?&style=for-the-badge&logo=webpack&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/node-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/express-F3631D.svg?&style=for-the-badge&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/HTML-007ACC.svg?&style=for-the-badge&logo=html5&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Mongo DB-007ACC.svg?&style=for-the-badge&logo=mongoDB&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Git-007ACC.svg?&style=for-the-badge&logo=git&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Mongo DB-47A248.svg?&style=for-the-badge&logo=mongoDB&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white" height="25"/>
 </p> 
  <p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api?username=aadi30thakur&show_icons=true&hide=contribs" alt="aadi30thakur"/>
