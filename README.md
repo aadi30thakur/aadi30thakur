@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **DBMS**
+- 🌱 I’m currently learning **Data Structures**
 
 <h3>connect with me: </h3>
 
