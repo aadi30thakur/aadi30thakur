@@ -15,10 +15,10 @@
 [<img align="left" alt="_aadi.thakur_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]<br/><br/>
 <h3>Stack I work with</h3>
 <p align="left">
-<img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
+<!-- <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/> -->
 <img src="https://img.shields.io/badge/java-11B48A.svg?&style=for-the-badge&logo=java&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/javascript-6400AA.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/android-0052CC.svg?&style=for-the-badge&logo=android&logoColor=white" height="25"/>
+<!-- <img src="https://img.shields.io/badge/android-0052CC.svg?&style=for-the-badge&logo=android&logoColor=white" height="25"/> -->
 <img src="https://img.shields.io/badge/react-4479A1.svg?&style=for-the-badge&logo=react&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/linux-FB7A24.svg?&style=for-the-badge&logo=linux&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Mern-261C29.svg?&style=for-the-badge&logo=webpack&logoColor=white" height="25"/>
