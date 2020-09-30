@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt=""/> I'm Aditya Thakur</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="" width="40"/> I'm Aditya Thakur</h1>
 <h3 align="center">A passionate developer from INDIA 
 <img src="https://image.flaticon.com/icons/svg/3014/3014003.svg" width="14"/> </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadi30thakur" alt="aadi30thakur" /></p>
