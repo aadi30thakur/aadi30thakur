@@ -3,9 +3,7 @@
 <img src="https://image.flaticon.com/icons/svg/3014/3014003.svg" width="14"/> </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadi30thakur" alt="aadi30thakur" /></p>
 
-- 🔭 I’m currently working on **Web Dev & Java**
-
-- 🌱 I’m currently learning **Data Structures & Alogorithms**
+- 🔭 I’m currently working on **Rust , Kafka , Clickhouse** 
 
 <h3>connect with me: </h3>
 
